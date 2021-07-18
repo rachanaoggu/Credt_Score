@@ -6,7 +6,7 @@ ml ops app for cred score dataset
 Week 6 Hackathon: Group 08
 
 Members
-Shiuli Das
+Shiuli Das and 
 Rachna Oggu
 
 Dataset –German Credit Dataset
